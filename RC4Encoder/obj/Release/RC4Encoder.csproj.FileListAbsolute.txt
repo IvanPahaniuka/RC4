@@ -1,0 +1,6 @@
+D:\Programs\Projects\RC4\RC4Encoder\bin\Release\RC4Encoder.dll
+D:\Programs\Projects\RC4\RC4Encoder\bin\Release\RC4Encoder.pdb
+D:\Programs\Projects\RC4\RC4Encoder\obj\Release\RC4Encoder.csprojAssemblyReference.cache
+D:\Programs\Projects\RC4\RC4Encoder\obj\Release\RC4Encoder.csproj.CoreCompileInputs.cache
+D:\Programs\Projects\RC4\RC4Encoder\obj\Release\RC4Encoder.dll
+D:\Programs\Projects\RC4\RC4Encoder\obj\Release\RC4Encoder.pdb

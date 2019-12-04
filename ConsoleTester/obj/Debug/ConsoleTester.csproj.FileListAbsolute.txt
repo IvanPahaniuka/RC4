@@ -1,0 +1,10 @@
+D:\Programs\Projects\RC4\ConsoleTester\bin\Debug\ConsoleTester.exe.config
+D:\Programs\Projects\RC4\ConsoleTester\bin\Debug\ConsoleTester.exe
+D:\Programs\Projects\RC4\ConsoleTester\bin\Debug\ConsoleTester.pdb
+D:\Programs\Projects\RC4\ConsoleTester\bin\Debug\RC4Encoder.dll
+D:\Programs\Projects\RC4\ConsoleTester\bin\Debug\RC4Encoder.pdb
+D:\Programs\Projects\RC4\ConsoleTester\obj\Debug\ConsoleTester.csprojAssemblyReference.cache
+D:\Programs\Projects\RC4\ConsoleTester\obj\Debug\ConsoleTester.csproj.CoreCompileInputs.cache
+D:\Programs\Projects\RC4\ConsoleTester\obj\Debug\ConsoleTester.csproj.CopyComplete
+D:\Programs\Projects\RC4\ConsoleTester\obj\Debug\ConsoleTester.exe
+D:\Programs\Projects\RC4\ConsoleTester\obj\Debug\ConsoleTester.pdb

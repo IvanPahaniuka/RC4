@@ -1,0 +1,22 @@
+﻿<Window x:Class="EncoderWPF.KeyWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:EncoderWPF"
+        mc:Ignorable="d"
+        Title="Генератор ключей" Height="450" Width="335"
+        MinWidth="335" MaxWidth="335" MinHeight="300">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="328.8"/>
+        </Grid.ColumnDefinitions>
+        <ListBox x:Name="listBox" Margin="10,76,0,10" SelectionMode="Single" HorizontalAlignment="Left" Width="307" KeyUp="ListBox_KeyUp"/>
+        <Button Content="Добавить" HorizontalAlignment="Left" Margin="10,13,0,0" VerticalAlignment="Top" Width="75" Height="19" Click="Add_Click"/>
+        <Button Content="Удалить" HorizontalAlignment="Left" Margin="90,13,0,0" VerticalAlignment="Top" Width="75" Height="19" Click="Remove_Click"/>
+        <TextBox x:Name="keyTextBox" HorizontalAlignment="Left" Height="23" Margin="10,37,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="155"/>
+        <Button Content="Авто" Margin="0,0,11.8,10" Click="Auto_Click" HorizontalAlignment="Right" Width="61" Height="23" VerticalAlignment="Bottom"/>
+        <Button Content="Сохранить" HorizontalAlignment="Left" Margin="236,13,0,0" VerticalAlignment="Top" Width="81" Height="47" Click="Save_Click"/>
+        <Button Content="Очистить" HorizontalAlignment="Left" Margin="170,13,0,0" VerticalAlignment="Top" Width="61" Height="47" Click="Clear_Click"/>
+    </Grid>
+</Window>
